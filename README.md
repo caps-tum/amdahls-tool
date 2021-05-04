@@ -1,5 +1,5 @@
 # Visualizations for IN2147 Parallel Programming
-This repositories contains various interactive visualizations to help you understand concepts in parallel programming.
+This repository contains various interactive visualizations to help you understand concepts in parallel programming.
 
 ### Amdahl's Law
 An interactive visualization tool for Amdahl's Law (available [here](https://caps-tum.github.io/parprog-visualizations/amdahls-law/amdahls-law.html)).
